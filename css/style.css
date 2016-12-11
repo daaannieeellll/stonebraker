@@ -266,8 +266,8 @@ img {
 
 .back-to-top {
   position: fixed;
-  bottom: 70px;
-  right: 50px;
+  bottom: 30px;
+  right: 30px;
 }
 .back-to-top img {
   width: 30px;
